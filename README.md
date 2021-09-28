@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to New York 🏙️! 
 
-You can use the [editor on GitHub](https://github.com/amyganatra1/bigapple/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+**Lights 📸** **Camera 📷** **Action 🎥** 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Home to the Statue of Liberty, Brodway theatre, and Central Park, N
 
 ### Markdown
 
