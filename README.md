@@ -1,8 +1,8 @@
 <h1> Welcome to New York 🏙️! 
                  
-                       **Lights 📸** **Camera 📷** **Action 🎥** 
+                          **Lights 📸** **Camera 📷** **Action 🎥** 
  
-  Home to the Statue of Liberty, Brodway theatre, and Central Park, NYC has something for                                                                              everyone 
+ Home to the Statue of Liberty, Brodway theatre, and Central Park, NYC has something for                                                                              everyone 
     
 
 <h2> Food Destinations <3 </h2>
