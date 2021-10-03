@@ -1,4 +1,4 @@
- ## Welcome to New York 🏙️! 
+<h1> Welcome to New York 🏙️! 
                  
                        **Lights 📸** **Camera 📷** **Action 🎥** 
  
@@ -16,11 +16,11 @@ Adda </li>
 <li>
 Jose Luis</li>
 </ol> 
-
+ 
 Check out this link to see  10 of the most recommended **[restaurants](https://migrationology.com/restaurants-in-nyc/)**.
 
 
-<h2> Must Sees 
+ <h2> Must See </h2>
  When coming to NYC, checking out popular attractions in the city is a must, here are some breathtaking images of some of my favorites 
 
 ![Statue of Liberty !](//images.app.goo.gl/1XnWr42JPGHM8vbf7 "Statue of Liberty")
