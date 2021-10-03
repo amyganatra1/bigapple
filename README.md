@@ -3,12 +3,24 @@
                        **Lights 📸** **Camera 📷** **Action 🎥** 
  
   Home to the Statue of Liberty, Brodway theatre, and Central Park, NYC has something for                                                                              everyone 
+    
 
-<h2> Food Destinations</h2>
-![
+<h2> Food Destinations <3 </h2>
+
+>In NYC There is a cusine, favorite food, or a new taste pallete for everyon, having visted NYC myself, check out the list below for some of my personal favorites 
+<ol>
+<li>
+Usha Foods 
+<li>
+Adda </li>
+<li>
+Jose Luis</li>
+</ol> 
+
 Check out this link to see  10 of the most recommended **[restaurants](https://migrationology.com/restaurants-in-nyc/)**.
 
->Having visited NYC myself my top three favorite restaurants are
+
+<h2> Must See 
 
 
 
