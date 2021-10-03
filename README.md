@@ -1,5 +1,4 @@
-<h1> Welcome to New York 🏙️! </h1>
-                 
+ Welcome to New York 🏙️! 
                           **Lights 📸** **Camera 📷** **Action 🎥** 
  
  Home to the Statue of Liberty, Brodway theatre, and Central Park, NYC has something for                                                                              everyone 
@@ -7,7 +6,9 @@
 
 <h2> Food Destinations <3 </h2>
 
->>In NYC There is a cusine, favorite food, or a new taste pallete for everyon, having visted NYC myself, check out the list below for some of my personal favorites 
+>>In NYC there is a cusine, favorite food, or a new taste pallete for everyon
+
+>> Having visted NYC myself, check out the list below for some of my personal favorites 
 <ol>
 <li>
 Usha Foods 
@@ -15,7 +16,8 @@ Usha Foods
 Adda </li>
 <li>
 Jose Luis
- </li>
+ </li>![image](https://user-images.githubusercontent.com/91553583/135774610-22799ec4-5cd5-4f9d-9a54-e2b101442172.jpeg)
+
   
 Check out this link to see  10 of the most recommended **[restaurants](https://migrationology.com/restaurants-in-nyc/)**.
 
