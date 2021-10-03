@@ -25,29 +25,15 @@ Check out this link to see  10 of the most recommended **[restaurants](https://m
 
 ![Statue of Liberty !](//images.app.goo.gl/1XnWr42JPGHM8vbf7 "Statue of Liberty")
 
- ![Central Park !](////images.app.goo.gl/Wnz7zRQZmdSRzPEo6 "Central Park") 
+![Central Park!](//images.app.goo.gl/Wnz7zRQZmdSRzPEo6 "Central Park") 
+ 
+![Empire State Building!](//https://images.app.goo.gl/H24qoseiA6eddSqi6 "Empire State Building")
+ 
+![Metropolitan Museum of Art!](//https://images.app.goo.gl/71aGZy87dN5paZmo7 "Metropolitan Museum of Art")
 
-```markdown
-Syntax highlighted code block
+Check out this link to see  20 of the most recommended **[attractions](https://www.planetware.com/tourist-attractions-/new-york-city-us-ny-nyc.htm)**. 
+ 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amyganatra1/bigapple/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
