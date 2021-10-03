@@ -20,9 +20,12 @@ Jose Luis</li>
 Check out this link to see  10 of the most recommended **[restaurants](https://migrationology.com/restaurants-in-nyc/)**.
 
 
-<h2> Must See 
+<h2> Must Sees 
+ When coming to NYC, checking out popular attractions in the city is a must, here are some breathtaking images of some of my favorites 
 
+![Statue of Liberty !](//images.app.goo.gl/1XnWr42JPGHM8vbf7 "Statue of Liberty")
 
+ ![Central Park !](////images.app.goo.gl/Wnz7zRQZmdSRzPEo6 "Central Park") 
 
 ```markdown
 Syntax highlighted code block
