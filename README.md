@@ -20,7 +20,8 @@ Dame
 
 <p>
 Check out this link to see  10 of the most recommended <a href="/migrationology.com/restaurants-in-nyc/"> restaurants
-</p>
+
+ </p>
 
  
 <h2> Must Sees </h2>
@@ -28,6 +29,6 @@ Check out this link to see  10 of the most recommended <a href="/migrationology.
  When coming to NYC, checking out popular attractions in the city is a must, here are some breathtaking images of some of my favorites 
 
 
- <img src="https://images.app.goo.gl/4Ap3PAyw8hTT8Mw36"
+ <img src="https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/20/full/1632080404-7898.jpg"
  
 
