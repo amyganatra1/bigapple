@@ -1,22 +1,19 @@
- Welcome to New York 🏙️! 
-                **Lights 📸** **Camera 📷** **Action 🎥** 
+ <h1> Welcome to New York 🏙️! </h1>
+                 **Lights 📸** **Camera 📷** **Action 🎥** 
  
  Home to the Statue of Liberty, Brodway theatre, and Central Park, NYC has something for everyone                                                           
-
 <h2> Food Destinations <3 </h2>
-
 >>In NYC there is a cusine, favorite food, or a new taste pallete for everyon
 
->> Having visted NYC myself, check out the list below for some of my personal favorites 
+ Having visted NYC myself, check out the list below for some of my personal favorites 
 <ol>
 <li>
 Usha Foods 
 <li>
 Adda </li>
 <li>
-
+ 
 Check out this link to see  10 of the most recommended **[restaurants](https://migrationology.com/restaurants-in-nyc/)**.
-
 
  <h2> Must See </h2>
 When coming to NYC, checking out popular attractions in the city is a must, here are some breathtaking images of some of my favorites 
