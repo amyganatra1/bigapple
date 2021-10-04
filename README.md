@@ -6,7 +6,7 @@
 
 <h2> Food Destinations <3 </h2>
 
->>In NYC there is a cusine, favorite food, or a new taste pallete for everyone
+>In NYC there is a cusine, favorite food, or a new taste pallete for everyone
 
  Having visted NYC myself, check out the list below for some of my personal favorites 
 
@@ -20,13 +20,14 @@ Dame
 
 <p>
 Check out this link to see  10 of the most recommended <a href="/migrationology.com/restaurants-in-nyc/"> restaurants
- <p>
+</p>
 
-
+ 
 <h2> Must Sees </h2>
 
  When coming to NYC, checking out popular attractions in the city is a must, here are some breathtaking images of some of my favorites 
 
-img src="https://images.app.goo.gl/wN23UaNUEFL84NJi6" alt="Statue of Liberty">
+
+ <img src="https://images.app.goo.gl/4Ap3PAyw8hTT8Mw36"
  
 
