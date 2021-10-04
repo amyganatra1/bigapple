@@ -21,7 +21,7 @@ Dame
 Check out this link to see  10 of the most recommended [restaurants](https://migrationology.com/restaurants-in-nyc/)
 
 
-<h2> Must See </h2>
+<h2> Must Sees </h2>
 When coming to NYC, checking out popular attractions in the city is a must, here are some breathtaking images of some of my favorites 
 
  ![Statue of Liberty ](https://user-images.githubusercontent.com/91553583/135779191-1138e07b-6714-40be-973a-b57f9d5e5125.jpeg) 
