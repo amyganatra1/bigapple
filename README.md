@@ -30,5 +30,15 @@ Check out this link to see  10 of the most recommended <a href="/migrationology.
 
 
  <img src= "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/20/full/1632080404-7898.jpg">
- 
+ <p>
+  Empire State Building 
+ </p>
+ <img src= "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/20/full/1632080404-7898.jpg">"
+ <p>
+ Statue of Liberty
+ </p>
+  <img src= "https://assets.centralparknyc.org/media/images/_1000x465_crop_center-center_none/Bethesda Terrace_20190515_002.jpg">"
+ <p>
+  Central Park
+ </p>
 
